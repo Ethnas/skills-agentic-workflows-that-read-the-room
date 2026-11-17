@@ -16,6 +16,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   edit: true
   web-fetch: {}
@@ -30,7 +31,8 @@ safe-outputs:
 
 Read `notes/mona-notes.md` and `site/content/github-info.md` before drafting.
 Fetch both https://github.blog/latest/ and https://github.blog/changelog/ and
-look for recent, verified information that would make the page more useful to
+fetch https://awesome-copilot.github.com/workflows/. Look for recent, verified
+information from these sources that would make the page more useful to
 developers.
 
 Keep any update short and practical, preserve the page's focus and existing
